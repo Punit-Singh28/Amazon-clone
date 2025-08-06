@@ -1,2 +1,3 @@
 # Amazon-clone
-I made an amazon clone website using HTML and CSS, in this I practiced and developed my skill of HTML and CSS.
+Tech Used: HTML, CSS
+Built a static clone of the Amazon homepage to mimic layout, navigation bar, and product grid.
